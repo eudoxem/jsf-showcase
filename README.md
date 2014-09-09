@@ -1,4 +1,4 @@
-projects
+JSF Showcase
 ========
 
-Repository pour mes projets personnels
+Un projet JSF parfaitement maîtrisé
