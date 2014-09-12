@@ -1,0 +1,80 @@
+#Group stage
+13/06/2014;01:30;Group A;Brazil vs Croatia;3-1;Arena Corinthians
+13/06/2014;21:30;Group A;Mexico vs Cameroon;1-0;Estadio das Dunas
+14/06/2014;00:30;Group B;Spain vs Netherlands;5-1;Arena Fonte Nova
+14/06/2014;03:30;Group B;Chile vs Australia;3-1;Arena Pantanal
+14/06/2014;21:30;Group C;Colombia vs Greece;3-0;Estadio Mineirão
+15/06/2014;00:30;Group D;Uruguay vs Costa Rica;3-1;Estadio Castelão
+15/06/2014;03:30;Group D;England vs Italy;2-1;Arena Amazonia
+15/06/2014;06:30;Group C;Ivory Coast vs Japan;2-1;Arena Pernambuco
+15/06/2014;21:30;Group E;Switzerland vs Ecuador;2-1;Nacional
+16/06/2014;00:30;Group E;France vs Honduras;3-0;Estadio Beira-Rio
+16/06/2014;03:30;Group F;Argentina vs Bosnia and Herzegovina;2-1;Estadio do Maracanã
+16/06/2014;21:30;Group G;Germany vs Portugal;4-0;Arena Fonte Nova
+17/06/2014;00:30;Group F;Iran vs Nigeria;0-0;Arena da Baixada
+17/06/2014;03:30;Group G;Ghana vs United States;1-2;Estadio das Dunas
+17/06/2014;21:30;Group H;Belgium vs Algeria;2-1;Estadio Mineirão
+18/06/2014;00:30;Group A;Brazil vs Mexico;0-0;Estadio Castelão
+18/06/2014;03:30;Group H;Russia vs South Korea;1-1;Arena Pantanal
+18/06/2014;21:30;Group B;Australia vs Netherlands;3-2;Estadio Beira-Rio
+19/06/2014;00:30;Group B;Spain vs Chile;2-0;Estadio do Maracanã
+19/06/2014;03:30;Group A;Cameroon vs Croatia;4-0;Arena Amazonia
+19/06/2014;21:30;Group C;Colombia vs Ivory Coast;2-1;Nacional
+20/06/2014;00:30;Group D;Uruguay vs England;2-1;Arena Corinthi
+20/06/2014;3:30;Group C;Japan vs Greece;0-0;Estadio das Dunas
+20/06/2014;21:30;Group D;Italy vs Costa Rica;1-0;Arena Pernambuco
+21/06/2014;00:30;Group E;Switzerland vs France;5-2;Arena Fonte Nova
+21/06/2014;3:30;Group E;Honduras vs Ecuador;2-1;Arena da Baixada
+21/06/2014;21:30;Group F;Argentina vs Iran;1-0;Estãdio Mineirão
+22/06/2014;00:30;Group G;Germany vs Ghana;2-2;Estãdio Castelão
+22/06/2014;3:30;Group F;Nigeria vs Bosnia and Herzegovina;1-0;Arena Pantanal
+22/06/2014;21:30;Group H;Belgium vs Russia;1-0;Estãdio Maracanã
+23/06/2014;00:30;Group H;South Korea vs Algeria;4-2;Estãdio Beira-Rio
+23/06/2014;3:30;Group G;United States vs Portugal;2-2;Arena Amazônia
+23/06/2014;21:30;Group B;Australia vs Spain;0-3;Arena da Baixada
+23/06/2014;21:30;Group B;Netherlands vs Chile;2-0;Arena Corinthians
+24/06/2014;01:30;Group A;Croatia vs Mexico;1-3;Arena Pernambuco
+24/06/2014;01:30;Group A;Cameroon vs Brazil;1-4;Estãdio Nacional de Brasilia
+24/06/2014;21:30;Group D;Italy vs Uruguay;1-0;Estãdio das Dunas
+24/06/2014;21:30;Group D;Costa Rica vs England;0-0;Estãdio Mineirão
+25/06/2014;01:30;Group C;Japan vs Colombia;4-1;Arena Pantanal
+25/06/2014;01:30;Group C;Greece vs Ivory Coast;2-1;Estãdio Castelão
+25/06/2014;21:30;Group F;Nigeria vs Argentina;3-2;Estãdio Beira-Rio
+25/06/2014;21:30;Group F;Bosnia and Herzegovina vs Iran;3-1;Arena Fonte
+26/06/2014;01:30;Group E;Honduras vs Switzerland;0-3;Arena Amazônia
+26/06/2014;01:30;Group E;Ecuador vs France;0-0;Estãdio Maracanã
+26/06/2014;21:30;Group G;United States vs Germany;1-0;Arena Pernambuc
+26/06/2014;21:30;Group G;Portugal vs Ghana;2-1;Estãdio Nacional de Brasilia
+27/06/2014;01:30;Group H;South Korea vs Belgium;1-0;Arena Corinthians
+27/06/2014;01:30;Group H;Algeria vs Russia;2-1;Arena da Baixada
+
+
+#ROUND OF 16
+28/06/2014;21:30;Round of 16;Brazil vs Chile;1-1 (3-2 on penalties);Estadio Mineirão
+29/06/2014;01:30;Round of 16;Colombia vs Uruguay;2-0;Estadio do Maracanã
+29/06/2014;21:30;Round of 16;Netherlands vs Mexico;2-1;Estadio Castelão
+30/06/2014;01:30;Round of 16;Costa Rica vs Greece;1-1 (5-3 on penalties);Arena Pernambuco
+30/06/2014;21:30;Round of 16;France vs Nigeria;2-0;Nacional
+01/07/2014;01:30;Round of 16;Germany vs Algeria;2-0;Estadio Beira-Rio
+01/07/2014;21:30;Round of 16;Argentina vs Switzerland;1-0;Arena Corinthians
+02/07/2014;01:30;Round of 16;Belgium vs United States;2-1;Arena Fonte Nova
+
+
+#QUARTER-FINALS
+04/07/2014;21:30;Quarter-final;France vs Germany;1-0;Estadio dos Maracanã
+05/07/2014;01:30;Quarter-final;Brazil vs Colombia;2-1;Estadio Castelão
+05/07/2014;21:30;Quarter-final;Argentina vs Belgium;1-0;Nacional
+06/07/2014;01:30;Quarter-final;Netherlands vs Costa Rica;0-0 (4-3 on penalties);Arena Fonte Nova
+
+
+#SEMI-FINALS
+09/07/2014;01:30;Semi-final;Brazil vs Germany;7-1;Estadio Mineirão
+10/07/2014;01:30;Semi-final;Argentina vs Netherlands;0-0 (4-2 on penalties);Arena Corinthians
+
+
+#THIRD PLACE
+13/07/2014;01:30;Third place;Brazil vs Netherlands;3-0;Nacional
+
+
+#FINAL
+14/07/2014;00:30;Final;Argentina vs Germany;0-1;Estadio do Maracanã

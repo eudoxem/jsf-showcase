@@ -1,0 +1,22 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:ui="http://java.sun.com/jsf/facelets">
+<h:head></h:head>
+<h:body>
+	<div id="header">
+		<div id="menu">
+			<h:form>
+				<ul>
+					<li><h:commandLink value="Home"
+							action="#{worldCupMatchesController.viewHomePage}" /></li>
+					<li><h:commandLink value="Results"
+							action="#{worldCupMatchesController.viewResults}" /></li>
+					<li><h:commandLink value="Teams" action="#" /></li>
+					<li class="last"><h:commandLink value="Contact" action="#" /></li>
+				</ul>
+			</h:form>
+		</div>
+	</div>
+</h:body>
+</html>

@@ -1,0 +1,52 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui">
+
+<h:head></h:head>
+
+<h:body>
+	<ui:composition template="/WEB-INF/templates/layout.xhtml">
+
+		<ui:define name="title">Results</ui:define>
+
+		<ui:define name="contentTitle">All matches results</ui:define>
+
+		<ui:define name="contentPage">
+			<p:dataTable value="#{worldCupMatchesController.matches}" var="match"
+				rows="8" paginator="true" tableStyle="width:auto">
+				<p:column sortBy="#{match.date}">
+					<f:facet name="header">Date</f:facet>
+					<h:outputText value="#{match.date}">
+						<f:convertDateTime pattern="dd/MM/yyyy" />
+					</h:outputText>
+				</p:column>
+				<p:column>
+					<f:facet name="header">Time</f:facet>
+					<h:outputText value="#{match.date}">
+						<f:convertDateTime pattern="HH:mm" />
+					</h:outputText>
+				</p:column>
+				<p:column sortBy="#{match.stage}">
+					<f:facet name="header">Stage</f:facet>
+					<h:outputText value="#{match.stage}" />
+				</p:column>
+				<p:column>
+					<f:facet name="header">Fixture</f:facet>
+					<h:outputText value="#{match.home.name} - #{match.away.name}" />
+				</p:column>
+				<p:column>
+					<f:facet name="header">Result</f:facet>
+					<h:outputText value="#{match.result}" />
+				</p:column>
+				<p:column sortBy="#{match.stadium}">
+					<f:facet name="header">Stadium</f:facet>
+					<h:outputText value="#{match.stadium}" />
+				</p:column>
+			</p:dataTable>
+		</ui:define>
+	</ui:composition>
+
+</h:body>
+</html>
